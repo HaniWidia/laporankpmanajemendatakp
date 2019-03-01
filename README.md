@@ -1,0 +1,2 @@
+# laporankpmanajemendatakp
+Laporan kerja praktek
